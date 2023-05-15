@@ -1,0 +1,15 @@
+C:\Users\ivank\CountigSort\CountigSort1\bin\Debug\net6.0\CountigSort1.exe
+C:\Users\ivank\CountigSort\CountigSort1\bin\Debug\net6.0\CountigSort1.deps.json
+C:\Users\ivank\CountigSort\CountigSort1\bin\Debug\net6.0\CountigSort1.runtimeconfig.json
+C:\Users\ivank\CountigSort\CountigSort1\bin\Debug\net6.0\CountigSort1.dll
+C:\Users\ivank\CountigSort\CountigSort1\bin\Debug\net6.0\CountigSort1.pdb
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.csproj.AssemblyReference.cache
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.AssemblyInfoInputs.cache
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.AssemblyInfo.cs
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.csproj.CoreCompileInputs.cache
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.dll
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\refint\CountigSort1.dll
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.pdb
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\CountigSort1.genruntimeconfig.cache
+C:\Users\ivank\CountigSort\CountigSort1\obj\Debug\net6.0\ref\CountigSort1.dll

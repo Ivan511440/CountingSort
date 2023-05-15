@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CountigSort1/1.0.0": {
+        "runtime": {
+          "CountigSort1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountigSort1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
